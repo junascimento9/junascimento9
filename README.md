@@ -34,4 +34,5 @@
 
 
 ![Snake animation](https://github.com/junascimento9/junascimento9/blob/output/github-contribution-grid-snake.svg)
+![Gif Animado](https://github.com/junascimento9/junascimento9/blob/main/gif2.gif)
 </div>
