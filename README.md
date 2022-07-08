@@ -1,4 +1,4 @@
-## 	:rainbow: Hello World! Eu sou Juliana Nascimento :star:
+## 	:rainbow: Hello World! Eu sou Juliana Nascimento :rainbow:
 
 <div align="center">
   <a href="https://github.com/junascimento9">
@@ -7,9 +7,10 @@
 </div>
 
 ## :bee: Sobre mim :bee:
-- 🏭 
-- :mortar_board: 
-- :book: 
+"Para mim Programação é mais do que uma arte prática importante. É também um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
+- :pouting_face: SDR (Sales Development Representative), trabalhando com prospecção outbound e qualificação de Leads B2B na Acal. 
+- :book: Em processo de auto-aprendizado para me tornar desenvolvedora Front-end.
+- :mortar_board: Atualmente no 2º semestre de Analise e desenvolvimento de sistemas pela ESTÁCIO.
 
 
 ## :computer: Tecnologias de estudo e/ou trabalho.
@@ -26,8 +27,10 @@
 ## :speech_balloon: Como chegar até mim
   
 <div>
-   <a href="mailto:(aqui)" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:julianalima.labjt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/julianalimanc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send/?phone=85992322137&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   
 
 
 ![Snake animation](https://github.com/junascimento9/junascimento9/blob/output/github-contribution-grid-snake.svg)
