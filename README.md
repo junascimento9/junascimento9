@@ -1,42 +1,34 @@
-## 	:rainbow: Hello World! Eu sou Juliana Nascimento :rainbow:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=D2D2D2&vCenter=true&width=435&lines=%F0%9F%8C%88+Hello+World!+I'm+Juliana+)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/junascimento9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junascimento9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junascimento9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Juliana-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Juliana-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Juliana-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Juliana-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Juliana-BE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
+<div align="center"><br>
+  <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Juliana-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Juliana-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Juliana-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
 
 ##
-
-## :bee: Sobre mim :bee:
-"Para mim Programação é mais do que uma arte prática importante. É também um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
-- :pouting_face: SDR (Sales Development Representative), trabalhando com prospecção outbound e qualificação de Leads B2B na Acal. 
-- :book: Em processo de auto-aprendizado para me tornar desenvolvedora Front-end.
-- :mortar_board: Atualmente no 2º semestre de Analise e desenvolvimento de sistemas pela ESTÁCIO.
-
-
-## :speech_balloon: Como chegar até mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=D2D2D2&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim)](https://git.io/typing-svg)
   
-<div>
+"Para mim Programação é mais do que uma arte prática importante. É também um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
+- :mortar_board: Atualmente no 3º semestre de Analise e desenvolvimento de sistemas pela ESTÁCIO.
+- :book: Em processo de auto-aprendizado para me tornar Desenvolvedora Front End & UX/UI Designer.
+  
+## 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=D2D2D2&vCenter=true&width=435&lines=%F0%9F%93%A9+Como+chegar+at%C3%A9+mim)](https://git.io/typing-svg)
+  
+<div align="center">
+   <a href="https://t.me/junascimento9" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="mailto:julianalima.labjt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/julianalimanc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send/?phone=85992322137&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    
-
 
 ![Snake animation](https://github.com/junascimento9/junascimento9/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
-  <div align="center">
-    
-![Gif Animado](https://github.com/junascimento9/junascimento9/blob/main/tumblr-niy83px2HX1s60oo7o1-r1--unscreen.gif )
-  </div>
