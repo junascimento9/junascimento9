@@ -24,7 +24,7 @@
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
-<div align="center"> 
+<div align="justify"> 
   <a href="http://www.github.com/junascimento9"><img src="https://github-readme-stats.vercel.app/api?username=junascimento9&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="junascimento9's GitHub stats" /></a>
   <img <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junascimento9&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></div> 
   
