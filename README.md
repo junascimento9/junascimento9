@@ -2,7 +2,6 @@
 ==========================================================================================================================================
 
 <div style="display="grid" justify-content="space-between">
-"Para mim Programação é mais do que uma arte prática importante. É também um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
 
 * 🌍  I'm a Brazilian woman 
 * 🖥️  See my temporary portfolio [here](http://portfolio-juna.vercel.app/)
