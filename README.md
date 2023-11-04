@@ -5,7 +5,7 @@
 
 • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="16" height="16" /> I'm a Brazilian woman<br>
 • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="16" height="16" /> See my temporary portfolio [here](http://portfolio-juna.vercel.app/)<br>
-• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="16" height="16" /> I'm learning JavaScript<br>
+• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="16" height="16" /> I'm learning JavaScript and PHP<br>
 • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="16" height="16" />Gryffindor
 
 
