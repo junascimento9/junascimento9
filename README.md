@@ -38,7 +38,7 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> Find me Here</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/julianalimanc/" target="_blank">
+  <a href="https://www.linkedin.com/in/junascimento9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="julianalima.labjt@gmail.com" target="_blank">
